@@ -14,7 +14,7 @@ version 16
 *------------------------------
 *        0: Set up
 *------------------------------
-local path "P:\SAR\2.GoogleMobility"
+local path "<<insert here your path>>"
 local googlecsv "Global_Mobility_Report.csv"
 local oxCGRT "OxCGRT_latest.csv"
 local link_oxCGRT "https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv"
